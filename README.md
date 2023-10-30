@@ -5,9 +5,9 @@ You are tasked with creating a Student Management System in JavaScript. This sys
 Requirements:
 
 Student Class (student.js): Create a Student class with the following attributes and methods:
-
 Attributes: name, id, and an array courses to store a list of courses that the student is enrolled in.
 Methods:
+
 constructor(name, id): Initializes the student's name, ID, and an empty courses array.
 enroll(course): Accepts a course name (string) and enrolls the student in that course by adding it to the courses array.
 getInfo(): Returns a string with the student's name, ID, and the list of enrolled courses.
